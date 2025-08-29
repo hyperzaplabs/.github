@@ -5,7 +5,7 @@
 Discover & Trade **HyperEVM Tokens** on one platform.
 
 [![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-blue?style=for-the-badge&logo=telegram)](https://t.me/HyperZapBot)
-[![Twitter](https://img.shields.io/badge/Twitter-@hyperzap_xyz-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/hyperzap_xyz)
+[![Twitter](https://img.shields.io/badge/Twitter-@hyperzap_io-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/hyperzap_io)
 
 
 ## 🚀 About
