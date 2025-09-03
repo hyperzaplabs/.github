@@ -84,7 +84,7 @@ Find HyperEVM tokens via our Discover page or use the `/discover` command in the
 ## 🌐 Platforms
 
 - **Telegram Bot**: [t.me/HyperZapBot](https://t.me/HyperZapBot)
-- **Web Platform**: Coming soon
+- **Web Platform**: [hyperzap.io](https://hyperzap.io)
 - **Mobile App**: Coming soon
 
 ## 📱 Key Commands
@@ -97,7 +97,7 @@ Find HyperEVM tokens via our Discover page or use the `/discover` command in the
 
 ## 🤝 Community
 
-- **Twitter**: [@hyperzap_xyz](https://twitter.com/hyperzap_xyz)
+- **Twitter**: [@hyperzap_io](https://twitter.com/hyperzap_io)
 - **Telegram**: [HyperZap Bot](https://t.me/HyperZapBot)
 
 ## ❓ FAQ
